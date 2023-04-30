@@ -12,35 +12,7 @@
 │   └── utils.py
 ├── data
 │   ├── testset
-│   │   ├── cam-20230208T035942Z-001.zip
-│   │   └── imu-20230208T035940Z-001.zip
 │   └── trainset
-│       ├── README.md
-│       ├── cam
-│       │   ├── cam1.p
-│       │   ├── cam2.p
-│       │   ├── cam8.p
-│       │   └── cam9.p
-│       ├── imu
-│       │   ├── imuRaw1.p
-│       │   ├── imuRaw2.p
-│       │   ├── imuRaw3.p
-│       │   ├── imuRaw4.p
-│       │   ├── imuRaw5.p
-│       │   ├── imuRaw6.p
-│       │   ├── imuRaw7.p
-│       │   ├── imuRaw8.p
-│       │   └── imuRaw9.p
-│       └── vicon
-│           ├── viconRot1.p
-│           ├── viconRot2.p
-│           ├── viconRot3.p
-│           ├── viconRot4.p
-│           ├── viconRot5.p
-│           ├── viconRot6.p
-│           ├── viconRot7.p
-│           ├── viconRot8.p
-│           └── viconRot9.p
 ├── docs
 │   ├── IMU_reference.pdf
 │   ├── IMUandCamSensors.jpg
