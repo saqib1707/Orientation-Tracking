@@ -89,23 +89,23 @@ cd code/ | python3 panorama_stitching.py --dataset_idx=<integer between 1-11>
 ### Orientation Tracking
 ### Dataset 1
 <p align ="center">
-  <img src="plots/orientation_tracking/dataset_1/est_vs_gt_accln" width="49%" /> 
-  <img src="plots/orientation_tracking/dataset_1/opt_vs_gt_rpy" width="49%" /> 
+  <img src="plots/orientation_tracking/dataset_1/est_vs_gt_accln.png" width="49%" /> 
+  <img src="plots/orientation_tracking/dataset_1/opt_vs_gt_rpy.png" width="49%" /> 
 </p>
 
 ### Dataset 7
 <p align ="center">
-  <img src="plots/orientation_tracking/dataset_7/est_vs_gt_accln" width="49%" /> 
-  <img src="plots/orientation_tracking/dataset_7/opt_vs_gt_rpy" width="49%" /> 
+  <img src="plots/orientation_tracking/dataset_7/est_vs_gt_accln.png" width="49%" /> 
+  <img src="plots/orientation_tracking/dataset_7/opt_vs_gt_rpy.png" width="49%" /> 
 </p>
 
 ### Panorama Stitching
 ### Dataset 1
 <p align ="center">
-  <img src="plots/panorama_stitching/pan_img_imu_ds_1" width="75%" /> 
+  <img src="plots/panorama_stitching/pan_img_imu_ds_1.png" width="75%" /> 
 </p>
 
 ### Dataset 8
 <p align ="center">
-  <img src="plots/panorama_stitching/pan_img_imu_ds_8" width="75%" /> 
+  <img src="plots/panorama_stitching/pan_img_imu_ds_8.png" width="75%" /> 
 </p>
