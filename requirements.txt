@@ -1,0 +1,5 @@
+argparse
+matplotlib==3.4.2
+transforms3d==0.4.1
+autograd==1.5
+tqdm==4.61.2
